@@ -1,0 +1,3 @@
+2024-08-18 18:33:10,885 ERROR frappe New Exception collected with id: 2024-08-18 18:33:10.304290-127.0.0.1-eb9
+Site: wisepick
+Form Dict: {'query': 'shirts', 'cmd': 'portal.sales_portal.api.api.get_products'}

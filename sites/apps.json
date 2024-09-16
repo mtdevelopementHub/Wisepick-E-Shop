@@ -1,0 +1,71 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "14.47.2"
+    },
+    "portal": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "c16bdec6003b3b1829d1260cafc2ea2f04c20729",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "payments": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "26fa011a486eac4fc655627c22cd3b6954656121",
+            "branch": "version-14"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    },
+    "techtrix_customisations": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "9cde2dbae809d9260db82d39b2c26f5fbdfd619a",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    },
+    "techtrix": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "640aa926b131d04a6638230f84050ad627c1ece5",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "5f3963b3e62ed18a049c1aeb9aaa4f0fd1baceac",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "16.0.0-dev"
+    },
+    "portaltechtrixsystem_reports": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "6a23ebdeea5a504eab88a83feaf39e4dd3623f58",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 7,
+        "version": "0.0.1"
+    }
+}
